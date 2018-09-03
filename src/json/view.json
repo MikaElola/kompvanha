@@ -1,0 +1,42 @@
+{
+    "Yleinen digiosaaminen": {
+        "Kanavien luotettavuus": "1",
+        "Tiedonhallinta": "1",
+        "Tekijänoikeudet": "1",
+        "Digitaaliset palvelukanavat": "1",
+        "Digityökalujen käyttöönotto": "1",
+        "Sisäinen digiviestintä": "1",
+        "Tietosuoja": "1",
+        "Tietoturva": "1",
+        "Oppiminen ja reflektointi": "1"
+    },
+    "Ongelmanratkaisu ja oppiminen": {
+        "Ongelmien hahmottaminen": "1",
+        "Ratkaisukeskeisyys": "1"
+    },
+    "Itsensä johtaminen": {
+        "Ajankäytön ja stressin hallinta1": "1",
+        "Ajankäytön ja stressin hallinta2": "1",
+        "Itsetuntemus1": "1",
+        "Itsetuntemus2": "1",
+        "Motivointikyky1": "1",
+        "Motivointikyky2": "1",
+        "Tunneäly": "1",
+        "Resilienssi eli muutoskyky1": "1",
+        "Resilienssi eli muutoskyky2": "3"
+    },
+    "Urahallinta": {
+        "Urasuunnittelu": "1",
+        "Työmahdollisuudet": "1",
+        "Työnhaku": "1",
+        "Verkostoituminen": "3",
+        "Verkostoitumistaidot": "3",
+        "Monikulttuurinen vuorovaikutus": "1"
+    },
+    "Vuorovaikutus": {
+        "Yhteistyö- ja tiimityötaidot1": "1",
+        "Yhteistyö- ja tiimityötaidot2": "1",
+        "Neuvottelutaidot": "1",
+        "Esiintymistaidot": "1"
+    }
+}
